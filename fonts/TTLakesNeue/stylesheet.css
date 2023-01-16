@@ -1,0 +1,228 @@
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: url('TTLakesNeue-Black.eot');
+    src: local('TT Lakes Neue Black'), local('TTLakesNeue-Black'),
+        url('TTLakesNeue-Black.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeue-Black.woff2') format('woff2'),
+        url('TTLakesNeue-Black.woff') format('woff'),
+        url('TTLakesNeue-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: url('TTLakesNeue-Italic.eot');
+    src: local('TT Lakes Neue Italic'), local('TTLakesNeue-Italic'),
+        url('TTLakesNeue-Italic.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeue-Italic.woff2') format('woff2'),
+        url('TTLakesNeue-Italic.woff') format('woff'),
+        url('TTLakesNeue-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: url('TTLakesNeue-DBold.eot');
+    src: local('TT Lakes Neue DemiBold'), local('TTLakesNeue-DBold'),
+        url('TTLakesNeue-DBold.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeue-DBold.woff2') format('woff2'),
+        url('TTLakesNeue-DBold.woff') format('woff'),
+        url('TTLakesNeue-DBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: url('TTLakesNeue-Light.eot');
+    src: local('TT Lakes Neue Light'), local('TTLakesNeue-Light'),
+        url('TTLakesNeue-Light.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeue-Light.woff2') format('woff2'),
+        url('TTLakesNeue-Light.woff') format('woff'),
+        url('TTLakesNeue-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: url('TTLakesNeue-BoldIt.eot');
+    src: local('TT Lakes Neue Bold Italic'), local('TTLakesNeue-BoldIt'),
+        url('TTLakesNeue-BoldIt.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeue-BoldIt.woff2') format('woff2'),
+        url('TTLakesNeue-BoldIt.woff') format('woff'),
+        url('TTLakesNeue-BoldIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: url('TTLakesNeue-XBoldIt.eot');
+    src: local('TT Lakes Neue ExtraBold Italic'), local('TTLakesNeue-XBoldIt'),
+        url('TTLakesNeue-XBoldIt.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeue-XBoldIt.woff2') format('woff2'),
+        url('TTLakesNeue-XBoldIt.woff') format('woff'),
+        url('TTLakesNeue-XBoldIt.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: url('TTLakesNeue-LightIt.eot');
+    src: local('TT Lakes Neue Light Italic'), local('TTLakesNeue-LightIt'),
+        url('TTLakesNeue-LightIt.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeue-LightIt.woff2') format('woff2'),
+        url('TTLakesNeue-LightIt.woff') format('woff'),
+        url('TTLakesNeue-LightIt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: url('TTLakesNeue-XBold.eot');
+    src: local('TT Lakes Neue ExtraBold'), local('TTLakesNeue-XBold'),
+        url('TTLakesNeue-XBold.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeue-XBold.woff2') format('woff2'),
+        url('TTLakesNeue-XBold.woff') format('woff'),
+        url('TTLakesNeue-XBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: url('TTLakesNeue-BlackIt.eot');
+    src: local('TT Lakes Neue Black Italic'), local('TTLakesNeue-BlackIt'),
+        url('TTLakesNeue-BlackIt.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeue-BlackIt.woff2') format('woff2'),
+        url('TTLakesNeue-BlackIt.woff') format('woff'),
+        url('TTLakesNeue-BlackIt.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: url('TTLakesNeue-XLightIt.eot');
+    src: local('TT Lakes Neue ExtraLight Italic'), local('TTLakesNeue-XLightIt'),
+        url('TTLakesNeue-XLightIt.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeue-XLightIt.woff2') format('woff2'),
+        url('TTLakesNeue-XLightIt.woff') format('woff'),
+        url('TTLakesNeue-XLightIt.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: url('TTLakesNeue-Bold.eot');
+    src: local('TT Lakes Neue Bold'), local('TTLakesNeue-Bold'),
+        url('TTLakesNeue-Bold.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeue-Bold.woff2') format('woff2'),
+        url('TTLakesNeue-Bold.woff') format('woff'),
+        url('TTLakesNeue-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: url('TTLakesNeue-XLight.eot');
+    src: local('TT Lakes Neue ExtraLight'), local('TTLakesNeue-XLight'),
+        url('TTLakesNeue-XLight.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeue-XLight.woff2') format('woff2'),
+        url('TTLakesNeue-XLight.woff') format('woff'),
+        url('TTLakesNeue-XLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: url('TTLakesNeue-DBoldIt.eot');
+    src: local('TT Lakes Neue DemiBold Italic'), local('TTLakesNeue-DBoldIt'),
+        url('TTLakesNeue-DBoldIt.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeue-DBoldIt.woff2') format('woff2'),
+        url('TTLakesNeue-DBoldIt.woff') format('woff'),
+        url('TTLakesNeue-DBoldIt.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Lakes Neue Variable';
+    src: url('TTLakesNeueVariable.eot');
+    src: local('TT Lakes Neue Variable'), local('TTLakesNeueVariable'),
+        url('TTLakesNeueVariable.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeueVariable.woff2') format('woff2'),
+        url('TTLakesNeueVariable.woff') format('woff'),
+        url('TTLakesNeueVariable.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: url('TTLakesNeue-Medium.eot');
+    src: local('TT Lakes Neue Medium'), local('TTLakesNeue-Medium'),
+        url('TTLakesNeue-Medium.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeue-Medium.woff2') format('woff2'),
+        url('TTLakesNeue-Medium.woff') format('woff'),
+        url('TTLakesNeue-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: url('TTLakesNeue-ThinIt.eot');
+    src: local('TT Lakes Neue Thin Italic'), local('TTLakesNeue-ThinIt'),
+        url('TTLakesNeue-ThinIt.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeue-ThinIt.woff2') format('woff2'),
+        url('TTLakesNeue-ThinIt.woff') format('woff'),
+        url('TTLakesNeue-ThinIt.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: url('TTLakesNeue-Thin.eot');
+    src: local('TT Lakes Neue Thin'), local('TTLakesNeue-Thin'),
+        url('TTLakesNeue-Thin.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeue-Thin.woff2') format('woff2'),
+        url('TTLakesNeue-Thin.woff') format('woff'),
+        url('TTLakesNeue-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: url('TTLakesNeue-MediumIt.eot');
+    src: local('TT Lakes Neue Medium Italic'), local('TTLakesNeue-MediumIt'),
+        url('TTLakesNeue-MediumIt.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeue-MediumIt.woff2') format('woff2'),
+        url('TTLakesNeue-MediumIt.woff') format('woff'),
+        url('TTLakesNeue-MediumIt.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Lakes Neue';
+    src: url('TTLakesNeue-Regular.eot');
+    src: local('TT Lakes Neue'), local('TTLakesNeue-Regular'),
+        url('TTLakesNeue-Regular.eot?#iefix') format('embedded-opentype'),
+        url('TTLakesNeue-Regular.woff2') format('woff2'),
+        url('TTLakesNeue-Regular.woff') format('woff'),
+        url('TTLakesNeue-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
